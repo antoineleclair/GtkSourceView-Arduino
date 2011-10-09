@@ -223,7 +223,7 @@
                     <keyword>_Bool</keyword>
                     <keyword>_Complex</keyword>
                     <keyword>_Imaginary</keyword>
-                    <keyword>bool</keyword>
+                    <keyword>boolean</keyword>
                     <keyword>char</keyword>
                     <keyword>double</keyword>
                     <keyword>float</keyword>
